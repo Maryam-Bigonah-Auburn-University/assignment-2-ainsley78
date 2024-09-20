@@ -27,7 +27,7 @@ int main() {
 
     // Convert KPH to MPH
     double mphFromKPH = convertToMPH(kph);
-    cout << "Your speed in miles per hour: " << mphFromKPH << " MPH" << endl;
+    cout << "Your speed in miles per hour: "<< mphFromKPH << " MPH" << endl;
 
     return 0;
 }
